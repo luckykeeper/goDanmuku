@@ -1,0 +1,10 @@
+{
+    "ServerPort":"9090",
+    "username": "postgres",
+    "password": "luckykeeper",
+    "address": "192.168.1.50",
+    "port": 5432,
+    "gameName":"love69",
+    "sceneNumber":22,
+    "allowUA":"LuckyRenPy,Powered By Luckykeeper"
+}
